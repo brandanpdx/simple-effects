@@ -19,3 +19,16 @@ img {
  .clickable:hover {
     text-decoration: underline;
   }
+
+  .clickable-p {
+    cursor: pointer;
+    color: #0088cc;
+  }
+  
+ .clickable-p:hover {
+    text-decoration: underline;
+  }
+
+  #hidden-text {
+    display: none;
+  }
